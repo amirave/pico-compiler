@@ -20,10 +20,13 @@ Create a new project:
 
 # About the files
 Arguments for `compiler.py`:
+
   -n, --name: Name of the project you want to compile, leave blank to use `cproj.txt`.
+  
   -r: Run the project after compiling
 
 Arguments for `export.py`:
+
   -n, --name: Name of the project you want to export, leave blank to use `cproj.txt`.
 
 File Name | Description
