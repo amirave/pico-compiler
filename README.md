@@ -14,7 +14,7 @@ Setup:
 Create a new project:
 1. Create a new folder in your projects directory. The name of the folder will be the name of your project.
 2. Each .lua file you create in this directory will be added to the compiled cartrige.
-3. To compile this new project, either run compiler.py with the parameter "-n {project name}", or change cproj.txt to contain the name of your project. Use "-r" if you wish to run the cart after compiling.
+3. To compile this new project, either run compiler.py with the parameter `-n {project name}`, or change cproj.txt to contain the name of your project. Use `-r` if you wish to run the cart after compiling.
 4. After you run compiler.py for the first time, assets.p8 and final.p8 files will be created.
 5. You can add a label.png to this project, and it would be added to cart while compiling.
 
