@@ -19,11 +19,13 @@ Create a new project:
 5. You can add a `label.png` to this project, and it would be added to cart while compiling.
 
 # About the files
-`compiler.py` - combines the assets from assets.p8 and the code in the given project to a single cart names `"final.p8"`.
-`export.py` - compiles a given project and exports it to HTML and JS.
-`pico8label.py` - adds a custom label to a given cartrige file. if the project contains a `label.png` it uses it, otherwise uses the default label (from the config).
-`config.json` - a JSON file that contains the paths for all the necessary folders and files.
-`cproj.txt` - contains the name of the current project. `compiler.py` and `export.py` use it if no parameter is given.
+File Name | Description
+--- | ---
+`compiler.py` | combines the assets from assets.p8 and the code in the given project to a single cart names `"final.p8"`.
+`export.py` | compiles a given project and exports it to HTML and JS.
+`pico8label.py` | adds a custom label to a given cartrige file. if the project contains a `label.png` it uses it, otherwise uses the default label (from the config).
+`config.json` | a JSON file that contains the paths for all the necessary folders and files.
+`cproj.txt` | contains the name of the current project. `compiler.py` and `export.py` use it if no parameter is given.
 
 # Configuration
 Parameter | Description
