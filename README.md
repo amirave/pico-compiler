@@ -19,6 +19,13 @@ Create a new project:
 5. You can add a `label.png` to this project, and it would be added to cart while compiling.
 
 # About the files
+Arguments for `compiler.py`:
+  -n, --name: Name of the project you want to compile, leave blank to use `cproj.txt`.
+  -r: Run the project after compiling
+
+Arguments for `export.py`:
+  -n, --name: Name of the project you want to export, leave blank to use `cproj.txt`.
+
 File Name | Description
 --- | ---
 compiler.py | combines the assets from assets.p8 and the code in the given project to a single cart names `"final.p8"`.
