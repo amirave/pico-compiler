@@ -26,8 +26,10 @@ config.json - a JSON file that contains the paths for all the necessary folders 
 cproj.txt - contains the name of the current project. compiler.py and export.py use it if no parameter is given.
 
 # Configuration
-1. project_path: Path to the folder that contains your projects (folders).
-2. blank_cart_path: Path to a blank .p8 cartrige. I have provided one with this project. (If you want each new project to start with pre-made music, sprites, etc.. you cant change this blank cart). This should be a path to the file, not to a folder.
-3. default_label_path: Path to the default label you want to give your projects. This should be a path to the file, not to a folder.
-4. picotools_path: Path to the picotools folder.
-5. pico_path: Path to the app's folder. Should be C:\Program Files (x86)\PICO-8\.
+Parameter | Description
+--- | --- | ---
+project_path | Path to the folder that contains your projects (folders).
+blank_cart_path | Path to a blank .p8 cartrige. I have provided one with this project. (If you want each new project to start with pre-made music, sprites, etc.. you cant change this blank cart). This should be a path to the file, not to a folder.
+default_label_path | Path to the default label you want to give your projects. This should be a path to the file, not to a folder.
+picotools_path | Path to the picotools folder.
+pico_path: Path to the app's folder. Should be C:\Program Files (x86)\PICO-8\.
