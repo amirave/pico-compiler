@@ -27,7 +27,7 @@ cproj.txt - contains the name of the current project. compiler.py and export.py 
 
 # Configuration
 Parameter | Description
---- | --- | ---
+--- | ---
 project_path | Path to the folder that contains your projects (folders).
 blank_cart_path | Path to a blank .p8 cartrige. I have provided one with this project. (If you want each new project to start with pre-made music, sprites, etc.. you cant change this blank cart). This should be a path to the file, not to a folder.
 default_label_path | Path to the default label you want to give your projects. This should be a path to the file, not to a folder.
