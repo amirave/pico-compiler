@@ -29,6 +29,7 @@ Arguments for `export.py`:
 
   -n, --name: Name of the project you want to export, leave blank to use `cproj.txt`.
 
+
 File Name | Description
 --- | ---
 compiler.py | combines the assets from assets.p8 and the code in the given project to a single cart names `"final.p8"`.
