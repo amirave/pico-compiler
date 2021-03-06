@@ -45,6 +45,3 @@ os.system('start {0} -x {1}temp.p8'.format(get_config('pico_path'), dr))
 time.sleep(1)
 os.remove(dr + 'temp.p8')
 os.remove(dr + 'temp_code.lua')
-
-#os.system('scp ' + dr + name + '.html pi@192.168.1.200:/var/www/html'.format(dr))
-#os.system('scp ' + dr + name + '.js pi@192.168.1.200:/var/www/html'.format(dr))
