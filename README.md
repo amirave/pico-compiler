@@ -33,3 +33,8 @@ blank_cart_path | Path to a blank .p8 cartrige. I have provided one with this pr
 default_label_path | Path to the default label you want to give your projects. This should be a path to the file, not to a folder.
 picotools_path | Path to the picotools folder.
 pico_path: Path to the app's folder. Should be C:\Program Files (x86)\PICO-8\.
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
