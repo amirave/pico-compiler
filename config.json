@@ -1,7 +1,7 @@
 {
-    "project_path": "",
-    "blank_cart_path": "../carts/blank.p8",
-    "default_label_path": "../default_label.png",
-    "picotools_path": "../picotool/",
-    "pico_path": "../pico-8/pico8"
+    "project_path": null,
+    "blank_cart_path": null,
+    "default_label_path": null,
+    "picotools_path": null,
+    "pico_path": null
 }
