@@ -1,5 +1,5 @@
 # What is this project?
-This is setup I made and used to make games for Pico-8 with Visual Studio Code, instead of their default editor.
+A tool to compile games for the fantasy console "Pico-8" Visual Studio Code, instead of using Pico-8's built-in editor. The tool allows you to combine multiple .lua files into a single Pico-8 game file, add a cover image and run the game.
 
 # What is Pico 8?
 >PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs. It feels like a regular console, but runs on Windows / Mac / Linux. When you turn it on, the machine greets you with a commandline, a suite of cartridge creation tools, and an online cartridge browser called SPLORE.
